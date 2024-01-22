@@ -1,2 +1,2 @@
-# CG-mini-project
-Solids of revolution
+# Computer_Graphics_Mini_Project
+Solids of Revolution
